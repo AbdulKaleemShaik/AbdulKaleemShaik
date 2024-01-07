@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKShannu&layout=compact&theme=" alt=AKShannu />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKaleemShaik&layout=compact&theme=" alt=AKShannu />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AKShannu&show_icons=true&locale=en&theme=" alt="AKShannu" /></p>
 
