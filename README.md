@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkaleemshaik&show_icons=true&locale=en" alt="abdulkaleemshaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaleemshaik&" alt="abdulkaleemshaik" /></p>
+<img src="https://raw.githubusercontent.com/AbdulKaleemShaik/AbdulKaleemShaik/output/snake.svg" alt="Snake animation" />
