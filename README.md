@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaleemshaik&" alt="abdulkaleemshaik" /></p>
 <img src="https://raw.githubusercontent.com/AbdulKaleemShaik/AbdulKaleemShaik/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/AbdulKaleemShaik/AbdulKaleemShaik/blob/output/github-contribution-grid-snake.gif)
+
