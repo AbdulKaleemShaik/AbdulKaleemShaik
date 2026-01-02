@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Kaleem Shaik</h1>
-<h3 align="center">Student at Parul University | Software Engineer Intern at AppItSimple Infotek</h3>
+<h3 align="center">Software Engineer  at AppItSimple Infotek</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdulkaleemshaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Spring Boot & MERN Stack**
-- 💻 Currently working as a **Software Engineer Intern at AppItSimple Infotek**
+- 🌱 I’m currently learning **Devops & Cloud Technologies**
+- 💻 Currently working as a **Software Engineer at AppItSimple Infotek**
 - 📫 Reach me at: **abdulkaleem8360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
