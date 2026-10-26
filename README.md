@@ -6,8 +6,8 @@ I build scalable backend systems and full-stack web apps: multi-tenant SaaS, not
 
 - 🧠 **795+ LeetCode problems** solved (430 Medium · 85 Hard) · 500-day badge
 - 🌐 Portfolio: [abdulkaleem-portfolio.vercel.app](https://abdulkaleem-portfolio.vercel.app)
-- 📫 abdulkaleem8360@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdul-kaleem-80b17624b/) · [LeetCode](https://leetcode.com/u/AbdulKaleemShaik/)
-- 🟢 Open to: Backend / Full-Stack roles
+- 📫 abdulkaleem.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/skabdulkaleem/) · [LeetCode](https://leetcode.com/u/AbdulKaleemShaik/)
+- 🟢 **Open to new opportunities:** Backend / Full-Stack Engineer roles
 
 ---
 
