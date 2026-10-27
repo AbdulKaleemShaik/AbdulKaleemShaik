@@ -15,10 +15,10 @@ I build scalable backend systems and full-stack web apps: multi-tenant SaaS, not
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**NotifyFlow**](https://github.com/AbdulKaleemShaik/notifyflow) | Multi-tenant notification engine: in-app, email and webhook channels, real-time WebSocket push, async queue processing, analytics | Node.js · Express · WebSockets · Queues |
-| [**BookFlow**](https://github.com/AbdulKaleemShaik/bookflow-saas-booking) | Multi-tenant SaaS appointment booking with tenant isolation via compound indexes | React · Redux Toolkit · Node.js · MongoDB |
+| [**NotifyFlow**](https://github.com/AbdulKaleemShaik/notifyflow) | Multi-tenant notification engine: in-app, email and HMAC-signed webhook delivery, BullMQ queues with retries and dead-letter handling, Redis sliding-window rate limiting, 144 tests + CI | Node.js · BullMQ · Redis · WebSockets · Protobuf |
+| [**BookFlow**](https://github.com/AbdulKaleemShaik/bookflow-saas-booking) | Multi-tenant SaaS booking with strict tenant isolation, 5-role RBAC, Stripe payments, Redis locks that prevent double-booking, 53 tests + CI | React · Node.js · MongoDB · Redis · Stripe · Kubernetes |
 | [**PlanForce AI**](https://github.com/AbdulKaleemShaik/planforce-ai) | Multi-agent AI (Planner → Insight → Execution) that generates and edits business plans | Next.js · TypeScript · Groq Llama 3.3 |
-| [**AgriConnect**](https://github.com/AbdulKaleemShaik/AgriConnect) | Marketplace connecting farmers and buyers, with role-based access | Spring Boot · React · MySQL |
+| [**AgriConnect**](https://github.com/AbdulKaleemShaik/AgriConnect) | Marketplace connecting farmers and buyers: catalogue, cart, orders, JWT role-based access | Spring Boot · Spring Security · MySQL · React |
 | [**Pastebin Lite**](https://github.com/AbdulKaleemShaik/Pastebin-Lite) · [live](https://pastebin-lite-mu.vercel.app) | Paste sharing with TTL and view-limit expiry, REST API, serverless deploy | MERN · Vercel |
 
 ---
