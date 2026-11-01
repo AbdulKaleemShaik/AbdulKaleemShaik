@@ -1,8 +1,8 @@
 # Hi, I'm Abdul Kaleem Shaik 👋
 
-**Full-Stack Software Engineer · 2 years experience · Java / Spring Boot · Node.js · React · MongoDB**
+**Full-Stack Software Engineer · 2 years experience · Java / Spring Boot · Node.js · React · MySQL · MongoDB · Redis**
 
-I build scalable backend systems and full-stack web apps: multi-tenant SaaS, notification pipelines, REST APIs, and AI-powered tools. I'm currently going deeper into **DevOps (Docker, Kubernetes) and cloud**.
+I build scalable backend systems and REST APIs: multi-tenant SaaS, notification pipelines and concurrency-safe checkouts. Promoted from intern in 6 months and received the **Shining Star Award twice**.
 
 - 🧠 **795+ LeetCode problems** solved (430 Medium · 85 Hard) · 500-day badge
 - 🌐 Portfolio: [abdulkaleem-portfolio.vercel.app](https://abdulkaleem-portfolio.vercel.app)
@@ -15,21 +15,21 @@ I build scalable backend systems and full-stack web apps: multi-tenant SaaS, not
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**NotifyFlow**](https://github.com/AbdulKaleemShaik/notifyflow) | Multi-tenant notification engine: in-app, email and HMAC-signed webhook delivery, BullMQ queues with retries and dead-letter handling, Redis sliding-window rate limiting, Prometheus metrics, OpenAPI docs, 144 tests + CI | Node.js · BullMQ · Redis · WebSockets · Protobuf · Prometheus |
-| [**BookFlow**](https://github.com/AbdulKaleemShaik/bookflow-saas-booking) | Multi-tenant SaaS booking with strict tenant isolation, 5-role RBAC, Stripe payments with idempotent webhooks, Redis locks that prevent double-booking, rate-limited auth, Swagger, 53 tests + CI | React · Node.js · MongoDB · Redis · Stripe · Kubernetes |
+| [**NotifyFlow**](https://github.com/AbdulKaleemShaik/notifyflow) | Multi-tenant notification engine: in-app, email and HMAC-signed webhook delivery, BullMQ queues with retries and dead-letter handling, Redis sliding-window rate limiting, Prometheus metrics, Swagger docs, CI | Node.js · BullMQ · Redis · WebSockets · Protobuf · Prometheus |
+| [**BookFlow**](https://github.com/AbdulKaleemShaik/bookflow-saas-booking) | Multi-tenant SaaS booking with strict tenant isolation, 5-role RBAC, Stripe payments with idempotent webhooks, Redis locks that prevent double-booking, Redis cache-aside caching, rate-limited auth, CI | React · Node.js · MongoDB · Redis · Stripe · Kubernetes |
 | [**PlanForce AI**](https://github.com/AbdulKaleemShaik/planforce-ai) | Multi-agent AI (Planner → Insight → Execution) that generates and edits business plans | Next.js · TypeScript · Groq Llama 3.3 |
-| [**AgriConnect**](https://github.com/AbdulKaleemShaik/AgriConnect) | Farmer-to-customer marketplace: optimistic-locking checkout that never oversells, JWT role-based security, Flyway migrations, Docker, 70 tests + CI on MySQL | Java 21 · Spring Boot 3 · Spring Security · MySQL · Flyway |
+| [**AgriConnect**](https://github.com/AbdulKaleemShaik/AgriConnect) | Farmer-to-customer marketplace: row locks + optimistic locking stop overselling, JWT role-based security, global error handling, Flyway migrations, Docker, CI | Java 21 · Spring Boot 3 · Spring Security · MySQL · Flyway |
 | [**Pastebin Lite**](https://github.com/AbdulKaleemShaik/Pastebin-Lite) · [live](https://pastebin-lite-mu.vercel.app) | Paste sharing with TTL and view-limit expiry, REST API, serverless deploy | MERN · Vercel |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · JavaScript · TypeScript · SQL · Python
-**Backend:** Spring Boot · Node.js · Express · REST APIs · WebSockets
-**Frontend:** React · Next.js · Redux Toolkit · HTML/CSS
-**Databases:** MySQL · MongoDB · Oracle
-**DevOps / Tools:** Docker · Kubernetes · Git · GitHub Actions · Jenkins · Prometheus · Flyway · Vercel
+**Languages:** Java · JavaScript · SQL  
+**Backend:** Spring Boot · Spring Security · Node.js · Express · REST APIs · Microservices · JWT  
+**Frontend:** React · HTML/CSS  
+**Databases:** MySQL · MongoDB · Redis  
+**Cloud / DevOps:** AWS · Docker · Kubernetes · GitHub Actions · CI/CD · Git · Linux
 
 ---
 
