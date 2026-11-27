@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Kaleem Shaik 👋
 
-**Full-Stack Software Engineer · 2 years experience · Java / Spring Boot · Node.js · React · MySQL · MongoDB · Redis**
+**Full-Stack Software Engineer · 2 years experience · Mern . Java / Spring Boot · MySQL · MongoDB · Redis**
 
 I build scalable backend systems and REST APIs: multi-tenant SaaS, notification pipelines and concurrency-safe checkouts. Promoted from intern in 6 months and received the **Shining Star Award twice**.
 
